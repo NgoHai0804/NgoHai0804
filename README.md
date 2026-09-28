@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**NgoHai0804/NgoHai0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="60%">
+      <h3>Hello World! I'm Huy Hoang 👋</h3>
+      <ul>
+        <li>💼 Backend Developer (Laravel) tại <b>Hasaki Vietnam</b></li>
+        <li>🎓 Tốt nghiệp <b>Cao đẳng FPT</b></li>
+        <li>🔭 Đam mê: System Architecture & Web Security</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="link-anh-hacker-cua-ban.gif" />
+    </td>
+  </tr>
+</table>
